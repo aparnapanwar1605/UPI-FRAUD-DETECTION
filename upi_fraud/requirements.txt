@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn>=1.3
+imbalanced-learn
+lightgbm
+matplotlib
+seaborn
+joblib
+jupyter
+nbformat
